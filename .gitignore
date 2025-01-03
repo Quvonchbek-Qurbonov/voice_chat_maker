@@ -1,2 +1,5 @@
 my_account.session
 .env
+.idea
+___pycache__/main.cpython-312.pyc
+__pycache__/video_chat.cpython-312.pyc
