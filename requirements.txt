@@ -1,0 +1,9 @@
+telethon~=1.38.1
+python-telegram-bot==20.5
+pyTelegramBotAPI
+pyrogram~=2.0.106
+telegram~=0.0.1
+telebot
+python-dotenv
+numpy
+pydub
